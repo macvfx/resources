@@ -11,6 +11,8 @@ Conference
 
 MacDevOps:YVR June 2021 [https://mdoyvr.com]
 
+Conference videos: [https://www.youtube.com/channel/UCIZgKKNrG-ty72Bez8b2qHg/featured]
+
 Device Management
 
 Munki [https://github.com/munki/munki]
