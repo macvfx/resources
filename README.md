@@ -19,6 +19,10 @@ Munki [https://github.com/munki/munki]
 
 MDM +Munki+Autopkg [https://simplemdm.com/announcing-hosted-munki/]
 
+Munki repo in 3 minutes (video) [https://www.youtube.com/watch?v=Sr5-FoFLpnA]
+
+Terraform Munki (GitHub) [https://github.com/grahamgilbert/terraform-aws-munki-repo]
+
 Reporting
 
 MunkiReport-PHP [https://github.com/munkireport/]
